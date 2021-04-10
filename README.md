@@ -43,3 +43,5 @@
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/beebeewijaya-tech/count.svg" alt="Visitor Count" />
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beebeewijaya-tech&layout=compact)](https://github.com/beebeewijaya-tech/github-readme-stats)
