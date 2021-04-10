@@ -4,7 +4,7 @@
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-43853d?style=flat-square&logo=Kotlin&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-F6891F?style=flat-square&logo=Kotlin&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-43853d?style=flat-square&logo=Amazon&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
