@@ -31,7 +31,7 @@
 </p>
 
 - 😄 My Gender: Male
-- 🎓 I'm attending Kotlin Udacity Nanodegree Program
+- 🎓 I'm graduated from Kotlin Udacity Nanodegree Program
 - 🌱 I’m currently learning **JavaScript** and **Kotlin Android**
 - 💬 Ask me about **Javascript, Open Source, Kotlin**
 - 📫 How to reach me: [Bee Bee Wijaya](https://www.linkedin.com/in/beebeewijaya/) on LinkedIn
