@@ -37,10 +37,6 @@
 - 📫 How to reach me: [Bee Bee Wijaya](https://www.linkedin.com/in/beebeewijaya/) on LinkedIn
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=beebeewijaya-tech&theme=merko&show_icons=true&count_private=true" alt="Bee's Github Stats" />
-</p>
-
-<p align="center"> 
   <img src="https://profile-counter.glitch.me/beebeewijaya-tech/count.svg" alt="Visitor Count" />
 </p>
 
