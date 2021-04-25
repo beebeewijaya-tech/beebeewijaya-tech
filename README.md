@@ -36,8 +36,12 @@
 - 💬 Ask me about **Javascript, Open Source, Kotlin**
 - 📫 How to reach me: [Bee Bee Wijaya](https://www.linkedin.com/in/beebeewijaya/) on LinkedIn
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=beebeewijaya-tech&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beebeewijaya-tech&layout=compact" />
+</p>
+
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/beebeewijaya-tech/count.svg" alt="Visitor Count" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beebeewijaya-tech&layout=compact)](https://github.com/beebeewijaya-tech/github-readme-stats)
