@@ -1,7 +1,6 @@
 <h2 align="center">👋 Hello! I'm Bee Bee Wijaya.</h1>
 
 <p>Welcome to my page! </br> I'm Bee Bee, Fullstack developer from 🇮🇩 <b>Jakarta, Indonesia</b></p>
-<h3>My favs <3</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-F6891F?style=flat-square&logo=Kotlin&logoColor=white" />
