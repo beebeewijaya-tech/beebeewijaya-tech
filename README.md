@@ -6,7 +6,7 @@
 
 *7 years building things that scale — from Swift UIs to distributed systems*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/beebeewijaya-tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beebeewijaya)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:beebeewijaya.tech@gmail.com)
 
 </div>
@@ -84,12 +84,12 @@ I care about clean architecture, scalable systems, and developer experience. I'm
 
 ---
 
-## GitHub Stats
+
+## GitHub Activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=beebeewijaya-tech&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beebeewijaya-tech&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img src="https://streak-stats.demolab.com?user=beebeewijaya-tech&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
